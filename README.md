@@ -2,7 +2,7 @@
 ![Pytest](https://github.com/abm-covid-lux/multi_strain_abmlux/actions/workflows/python-package.yml/badge.svg)
 ![Pylint](https://github.com/abm-covid-lux/multi_strain_abmlux/workflows/Pylint/badge.svg)
 
-This is a multi-strain version of the [ABMlux](https://github.com/abm-covid-lux/output) stochastic agent-based model of COVID-19.
+This is a multi-strain version of the [ABMlux](https://github.com/abm-covid-lux/abmlux) stochastic agent-based model of COVID-19.
 
 ![ABMLUX Logo](abmlux_logo.jpg)
 
