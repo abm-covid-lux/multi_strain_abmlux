@@ -1,4 +1,4 @@
-# ABMLUX
+# Multi-Strain ABMLUX
 ![Integration](https://github.com/abm-covid-lux/ms_abmlux/workflows/Integration/badge.svg?branch=master)
 ![Pytest](https://github.com/abm-covid-lux/ms_abmlux/workflows/Pytest/badge.svg)
 ![Pylint](https://github.com/abm-covid-lux/ms_abmlux/workflows/Pylint/badge.svg)
