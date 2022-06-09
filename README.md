@@ -42,7 +42,7 @@ To generate documentation:
     pip install pdoc
     pdoc --html --overwrite --html-dir docs ms_abmlux
 
-There are a number of interfaces defined internally (e.g. DiseaseModel), which form the basis for pluggable modules through inheritance.  In addition to this, components communicate with the simulation engine via a messagebus, sending messages of two types:
+There are a number of interfaces defined internally, which form the basis for pluggable modules through inheritance.  In addition to this, components communicate with the simulation engine via a messagebus, sending messages of two types:
 
  * _intent_ to change state, e.g. 'I wish to change this agent's location to xxx'
  * _action_ notifications updating the state of the world, e.g. 'Agent xxx has moved to location yyy'
