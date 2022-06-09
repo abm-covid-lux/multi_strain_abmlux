@@ -21,7 +21,7 @@ Input data are defined per-scenario in the [Scenarios](Scenarios/) directory.  A
 ## Usage
 
  * `pip install .`
- * `ms_abmlux Scenarios/Luxembourg/config.yaml`
+ * `ms_abmlux Scenarios/Luxembourg/config.yaml state_strains_25.abm`
 
 ## Testing
 To test:
